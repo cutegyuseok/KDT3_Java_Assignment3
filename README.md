@@ -7,7 +7,7 @@
   
   
 
-- [반복문 강의자료](https://echoiing-fastcampus-backend.notion.site/a82126f8038e4adc93d8a0913e52402f) 문제를 풀어서 제출하시오.  
+- [문자열 강의자료](https://echoiing-fastcampus-backend.notion.site/154a33ac254c450bbf69a2d3ecd037d8) 문제를 풀어서 제출하시오.  
 
 - 파일 이름 작성법
   - ````me.day05.practice```` 패키지 생성
